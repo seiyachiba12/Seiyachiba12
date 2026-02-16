@@ -13,3 +13,5 @@ https://github.com/seiyachiba12/aws-portfolio
 
 🌍 Live Site:
 https://seiyachiba-portfolio.com
+
+📘 Docs: Operations & Troubleshooting included in repository
