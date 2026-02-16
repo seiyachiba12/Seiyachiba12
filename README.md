@@ -7,3 +7,9 @@ Serverless portfolio project:
 - Infrastructure as Code with AWS CDK (TypeScript)
 
 📌 Main Repo: aws-portfolio
+
+🔗 Portfolio Repository:
+https://github.com/seiyachiba12/aws-portfolio
+
+🌍 Live Site:
+https://seiyachiba-portfolio.com
