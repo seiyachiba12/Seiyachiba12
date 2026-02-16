@@ -10,7 +10,7 @@ AWSを中心にクラウドインフラを学習しており、
 - AWS WAF + CloudWatch によるセキュリティ監視
 - AWS CDK（TypeScript）でIaC化して再現可能に整理
 
-## 🔗 ポートフォリオリンク
+## 🔗 ポートフォリオ
 
 - 公開サイト：https://seiyachiba-portfolio.com  
 - GitHub（メイン）：https://github.com/seiyachiba12/aws-portfolioAWS Certified Solutions Architect (SAA)
