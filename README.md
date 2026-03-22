@@ -17,5 +17,7 @@ AWSを中心にクラウドインフラを学習しており、
 
 ## 運用ドキュメント
 
-aws-portfolio内に運用・障害対応手順も整理しています。  
-（Operations / Troubleshooting）
+aws-portfolio内に運用・障害対応手順も整理しています。
+
+- [運用メモ（Operations）](./aws-portfolio/operations.md)
+- [障害対応メモ（Troubleshooting）](./aws-portfolio/troubleshooting.md)
